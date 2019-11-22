@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall0311-canal/gmall0311-canal.iml" filepath="$PROJECT_DIR$/gmall0311-canal/gmall0311-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0311-common/gmall0311-common.iml" filepath="$PROJECT_DIR$/gmall0311-common/gmall0311-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0311-logger/gmall0311-logger.iml" filepath="$PROJECT_DIR$/gmall0311-logger/gmall0311-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0311-mock/gmall0311-mock.iml" filepath="$PROJECT_DIR$/gmall0311-mock/gmall0311-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0311-parent.iml" filepath="$PROJECT_DIR$/gmall0311-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0311-realtime/gmall0311-realtime.iml" filepath="$PROJECT_DIR$/gmall0311-realtime/gmall0311-realtime.iml" />
+    </modules>
+  </component>
+</project>
